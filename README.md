@@ -10,4 +10,4 @@ On the Flutter side, the image is used to create a ColorScheme using `ColorSchem
 
 ## Demo 📷
 
-<img src="https://raw.githubusercontent.com/Crazelu/material_you_macos/main/screenshots/material-you-macos-demo.gif" alt="Material You macOS experiment demo">
+<img src="https://raw.githubusercontent.com/Crazelu/material-you-macos/main/screenshots/material-you-macos-demo.gif" alt="Material You macOS experiment demo">
